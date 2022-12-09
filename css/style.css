@@ -1,13 +1,33 @@
 body {
-	position: absolute;
-	margin: 0px;
-	overflow: hidden;
-	top: 0px;
-	bottom: 0px;
-	width: 100%;
-	background-color: rgb(246, 248, 250);
+	margin: 0;
+	padding: 0;
+	background-color: #f1f1f1;
 }
 
-.aligncenter {
-	text-align: center;
+.container {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
+
+.center {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+
+/*
+	object-fit: contain;
+		- This property is used to specify how an image or video should be resized to fit its container.
+		- The image will be resized to fit inside the container, while maintaining its aspect ratio.
+*/
