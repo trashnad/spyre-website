@@ -34,19 +34,10 @@ img {
 	margin: 0 auto;
 }
 
-a {
-	color: darkslategrey;
-	text-decoration: none;
-	text-transform: uppercase;
-	position: absolute;
-	bottom: 20;
-	left: 20;
-}
-
 footer {
-	height: 50px;
-	background-color: #333;
-	color: #fff;
+	height: 30px;
+	background-color: #fff;
+	color: #333;
 	font-size: 14px;
 	font-family: Arial;
 	text-align: center;
