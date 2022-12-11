@@ -35,14 +35,45 @@ img {
 }
 
 footer {
-	height: 30px;
-	background-color: #fff;
+	height: 50px;
+	background-color: #f1f1f1;
 	color: #333;
 	font-size: 14px;
-	font-family: Arial;
+	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	position: fixed;
 	bottom: 0;
 	left: 0;
 	right: 0;
+}
+
+a:link {
+	color: #333;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #333;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #333;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:active {
+	color: #333;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+li {
+	float: left;
+	text-decoration: none;
+	padding: 20px;
+	list-style-type: none
 }
