@@ -72,6 +72,7 @@ a:active {
 }
 
 li {
+	display: inline;
 	float: left;
 	text-decoration: none;
 	padding: 20px;
