@@ -81,9 +81,8 @@ ul {
 ul li {
 	display: list-item;
 	background-color: black;
-	padding: 0px;
+	padding: 20px;
 	color: white;
-	margin: 0 3px;
 }
 
 /*
