@@ -80,8 +80,10 @@ ul {
 
 ul li {
 	display: list-item;
-	padding: 10px;
+	background-color: black;
+	padding: 0px;
 	color: white;
+	margin: 0 3px;
 }
 
 /*
