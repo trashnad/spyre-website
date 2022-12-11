@@ -42,3 +42,16 @@ a {
 	bottom: 20;
 	left: 20;
 }
+
+footer {
+	height: 50px;
+	background-color: #333;
+	color: #fff;
+	font-size: 14px;
+	font-family: Arial;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
