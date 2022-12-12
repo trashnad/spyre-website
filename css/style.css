@@ -40,7 +40,7 @@ img {
 }
 
 footer {
-	height: 30px;
+	height: 30px; /* Change back to 70px when readding buttons */
 	background-color: #f1f1f1;
 	color: #444;
 	font-size: 16px;
